@@ -1,6 +1,6 @@
 const SEO = {
-  defaultTitle: 'Sushi',
-  titleTemplate: '%s | Sushi',
+  defaultTitle: 'Hyphen Exchange',
+  titleTemplate: '%s | Hyphen',
   description: 'Swap, yield, lend, borrow, leverage, limit, launch all on one community driven ecosystem',
   openGraph: {
     type: 'website',
